@@ -1,5 +1,7 @@
+[English](README.md) [简体中文](README.zh.md)
 # YoziPixelFont09 (v0.0.1)
-This is a project for pixel font files called "YoziPixel" created by NekoYozi. This font is characterized by its high readability, and the Chinese characters conform to Chinese writing conventions (mostly).
+This is a project for pixel font files called "YoziPixel" created by NekoYozi. This font is characterized by its high readability, and the Chinese characters conform to Chinese writing conventions (mostly).  
+![image](YoziPixelImage)
 ## License
 This font is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and distribute it for any purpose, including commercial use, as long as you retain the copyright notice.
